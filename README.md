@@ -19,7 +19,11 @@ The project uses the **MNIST** (Modified National Institute of Standards and Tec
 
 ## Installation
 
-1. Clone the project repository:
+ Clone the project repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/amiinaaa/repository.git
+   cd repository
+## License
+
+This project is licensed under the MIT License.
 
